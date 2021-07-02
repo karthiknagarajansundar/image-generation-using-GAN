@@ -13,7 +13,7 @@ The gist of the project is to implement a Variational Auto-Encoder (VAE), traine
 <img src="https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/images/ImGenSGDM.jpg" width="200" height="200">
 
 #### Image generated with 1 hidden layer for encoder and 2 hidden layers for decoder
-<img src="https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/images/1LEnc_2LDec.jpg" width="200" height="200">
+<img src="https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/images/1LEnc_2LDec1.jpg" width="200" height="200">
 
 #### Image generated with 2 hidden layer for encoder and 3 hidden layers for decoder
 <img src="https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/images/2LEnc_3LDec.jpg" width="200" height="200">
