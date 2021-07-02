@@ -1,13 +1,13 @@
-# image-generation-using-GAN
+#image-generation-using-GAN
 
 [![Project Status: Unsupported – The project has reached a stable, usable state but the author(s) have ceased all work on it. A new maintainer may be desired.](https://www.repostatus.org/badges/latest/unsupported.svg)](https://www.repostatus.org/#unsupported)
 
-## Objective
+##Objective
 The gist of the project is to implement a Variational Auto-Encoder (VAE), trained on MNIST data-set to generate images of digits between 0 and 9.
 
 <img src="https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/images/vae.png" width="600" height="200">
 
-## Experiments
+##Experiments
 #### Image generated using ADAptive Moment estimation (ADAM) architecture
 <img src="https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/images/ImGenADAM.jpg" width="200" height="200">
 
