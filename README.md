@@ -1,4 +1,4 @@
-# image-generation-using-GAN
+# Automatic image generation (Synthetic)
 
 ## Objective
 The gist of the project is to implement a Variational Auto-Encoder (VAE), trained on MNIST data-set to generate images of digits between 0 and 9.
@@ -17,6 +17,12 @@ The gist of the project is to implement a Variational Auto-Encoder (VAE), traine
 
 #### Image generated with 2 hidden layer for encoder and 3 hidden layers for decoder
 <img src="https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/images/2LEnc_3LDec.jpg" width="200" height="200">
+
+## See also:
+
+[Automatic music generation](https://github.com/karthiknagarajansundar/automatic-music-generation)
+
+[Other Machine learning projects](https://github.com/karthiknagarajansundar/Machine-Learning-projects)
 
 ## License
 [MIT License](https://github.com/karthiknagarajansundar/image-generation-using-GAN/blob/main/LICENSE)
